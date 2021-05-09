@@ -1,5 +1,8 @@
 # Algorithm
-algorithm practice
+algorithm practice with BOJ & Programmers
+
+##LEVEL1
+--------------------------------
 |문제 링크|코드|
 |:---:|:---:|
 |[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[code](https://github.com/ksh960910/Algorithm/blob/master/Programmers_level1/%ED%8F%B0%EC%BC%93%EB%AA%AC.py)|
